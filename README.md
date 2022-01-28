@@ -67,3 +67,7 @@ python eval.py --data_path ./datasets/test/ --load_from_checkpoint ./checkpoints
 ## Reference
 
 [Mousumi Roy, Jun Kong, Satyananda Kashyap, Vito Paolo Pastore, Fusheng Wang, Ken C. L. Wong, Vandana Mukherjee, “Convolutional autoencoder based model HistoCAE for segmentation of viable tumor regions in liver whole-slide images. Scientific Reports (11):139, 2021.](https://doi.org/10.1038/s41598-020-80610-9)
+
+## License
+This tool is available under the GNU General Public License (GPL) (https://www.gnu.org/licenses/gpl-3.0.en.html) and the LGPL (https://www.gnu.org/licenses/lgpl-3.0.en.html).
+
